@@ -66,3 +66,5 @@ print(datumInContexts)
 values = [datum.value for datum in datumInContexts]
 print(values)
 # 结果为：['zxr']
+
+print([i for i in range(0,100)])
